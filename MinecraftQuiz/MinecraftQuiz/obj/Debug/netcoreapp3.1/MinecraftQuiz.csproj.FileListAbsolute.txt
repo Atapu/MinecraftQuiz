@@ -1,0 +1,13 @@
+C:\Users\adrie\source\repos\MinecraftQuiz\MinecraftQuiz\bin\Debug\netcoreapp3.1\MinecraftQuiz.exe
+C:\Users\adrie\source\repos\MinecraftQuiz\MinecraftQuiz\bin\Debug\netcoreapp3.1\MinecraftQuiz.deps.json
+C:\Users\adrie\source\repos\MinecraftQuiz\MinecraftQuiz\bin\Debug\netcoreapp3.1\MinecraftQuiz.runtimeconfig.json
+C:\Users\adrie\source\repos\MinecraftQuiz\MinecraftQuiz\bin\Debug\netcoreapp3.1\MinecraftQuiz.runtimeconfig.dev.json
+C:\Users\adrie\source\repos\MinecraftQuiz\MinecraftQuiz\bin\Debug\netcoreapp3.1\MinecraftQuiz.dll
+C:\Users\adrie\source\repos\MinecraftQuiz\MinecraftQuiz\bin\Debug\netcoreapp3.1\MinecraftQuiz.pdb
+C:\Users\adrie\source\repos\MinecraftQuiz\MinecraftQuiz\obj\Debug\netcoreapp3.1\MinecraftQuiz.csprojAssemblyReference.cache
+C:\Users\adrie\source\repos\MinecraftQuiz\MinecraftQuiz\obj\Debug\netcoreapp3.1\MinecraftQuiz.AssemblyInfoInputs.cache
+C:\Users\adrie\source\repos\MinecraftQuiz\MinecraftQuiz\obj\Debug\netcoreapp3.1\MinecraftQuiz.AssemblyInfo.cs
+C:\Users\adrie\source\repos\MinecraftQuiz\MinecraftQuiz\obj\Debug\netcoreapp3.1\MinecraftQuiz.csproj.CoreCompileInputs.cache
+C:\Users\adrie\source\repos\MinecraftQuiz\MinecraftQuiz\obj\Debug\netcoreapp3.1\MinecraftQuiz.dll
+C:\Users\adrie\source\repos\MinecraftQuiz\MinecraftQuiz\obj\Debug\netcoreapp3.1\MinecraftQuiz.pdb
+C:\Users\adrie\source\repos\MinecraftQuiz\MinecraftQuiz\obj\Debug\netcoreapp3.1\MinecraftQuiz.genruntimeconfig.cache
